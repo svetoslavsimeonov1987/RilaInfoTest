@@ -1,7 +1,21 @@
+<<<<<<< HEAD
 111
 svetoslav simeonov
 
 
+=======
+<<<<<<< HEAD
+222
+=======
+<<<<<<< .mine
+<<<<<<< .mine
+svetoslav simeonov
+=======
+>>>>>>> 56a91ad52e6f10f5068e72e47823a2fa4102bbc3
+ivan nenkov
+>>>>>>> .theirs
+=======
+>>>>>>> 780a38795fdb9a91ddd718aa7e733eadb5bc4851
 ivan nenkov
 
 radka bacheva
