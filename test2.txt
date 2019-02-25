@@ -1,13 +1,9 @@
-<<<<<<< .mine
-<<<<<<< .mine
+111
 svetoslav simeonov
-=======
-ivan nenkov
->>>>>>> .theirs
-=======
+
+
 ivan nenkov
 
 radka bacheva
 
 
->>>>>>> .theirs
